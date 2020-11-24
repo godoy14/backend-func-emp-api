@@ -20,7 +20,7 @@ Um cargo so pode ser excluido cago não tenha funcionários o oculpando e funcio
 # Demonstração da aplicação
 https://godoy14.github.io/frontend-func-emp-api/
 
-# Como rodas a aplicação
+# Como roda a aplicação
 Tanto o frontend como o backend da aplicação ja estão hospedados, link fornecido na demonstração da apliacação e no campo Website do repositório.
 Aplicação hospedada no Heroku.
 
